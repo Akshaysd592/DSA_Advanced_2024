@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// -------------- Friend class , friend function , getter and setter --------------------
 
 class parent
 {
